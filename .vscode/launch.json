@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Ex1Application<ex1>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.fullture.ex1.Ex1Application",
+            "projectName": "ex1",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-App<ex1>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.fullture.ex1.App",
+            "projectName": "ex1",
+            "args": ""
+        }
+    ]
+}
